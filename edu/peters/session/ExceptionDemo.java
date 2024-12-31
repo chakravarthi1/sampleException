@@ -5,7 +5,7 @@ public class ExceptionDemo {
 	public static void main(String[] args) {
 	
 		
-		float e= 114480,m=40;
+		float e= 114480 ,m=40;
 		
 		try{
 			
